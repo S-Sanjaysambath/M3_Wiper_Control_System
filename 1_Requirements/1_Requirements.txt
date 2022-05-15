@@ -1,0 +1,27 @@
+   
+
+    REQUIREMENTS:
+     
+        ADVANTAGES:
+  
+            * By using stm32 microcontroller that mounted behind the windshield.it sends out a beam of infraded light that, when water droplets are               on the windshield,is reflected back at different angles.
+            * Low cost.
+            * Easy to use. 
+            * Sensor use to measuring the how many rain drops are on the windshield and then sensor detects the light refelcted back internally by               the windshield glass,so if there were more rain drops on the windshield,the less light would be reflected back to the sensor.  
+            * Major safety bebefit as heavy rainfall causes serve visibility issues. 
+            * This sensor used in four wheeler, aircraft,train,six wheeler.
+            * Low cost "Automation project".
+
+
+
+       DIS-ADVANTAGES:
+
+          *The rain sensor based system functions when water falls on the sensor directly.
+          *The cost of overall system increases as additional components are needed along with rain sensor.
+          *In order to avoid false detection of rain, it requires rain sensors to take decision after few minutes. 
+
+        FUTURESCOPE:
+   
+           *Wiper is automatically ON during the time of rainfall. 
+           * The sensor is fixed on the vehicle glass. 
+           *The conductive sensor is used in this project.

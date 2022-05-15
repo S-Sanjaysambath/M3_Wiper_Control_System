@@ -1,0 +1,5 @@
+   
+   ABSTRACT:
+        
+          I have designed a project entitled "WIPER CONTROL SYSTEM" by using STM32 based microcontroller.Here we can explain the design and implementation of the Wiper control system. Most wipers have a low and a high speed ,as well as an intermittent setting. When the wipers are on low and high speed ,the motor runs continuously.But in the intermittent setting,the wipers stop momentarily between each wipe,all                     automotive wipers are controlled by a microcontroller. By using stm32 to control the speed motor and display the value of speed.
+
